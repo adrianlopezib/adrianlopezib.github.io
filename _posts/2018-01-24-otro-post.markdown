@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "POST CON IMAGENES"
+date:   2018-01-22 13:31:55 +0000
+categories: proyectos
+---
+
+###ESTO ES OTRO POST CON IMAGENES Y GIFS
+
+En este post vamos a aprender como **insertar imagenes y gifs** con **markdown**
+
+#Para poner una imagen:
+
+Debemos de poner la siguiente línea:
+
+```
+![Image insert](image link)
+```
+
+![Image insert](https://avatars1.githubusercontent.com/u/18133?s=400&v=4)
+
+
+#Para poner un gif:
+
+Debemos de poner la siguiente linea:
+
+```
+![Gif Insert](gif link)
+```
+
+![Alt Text](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
+
+#Esto es un ejemplo de JavaScript
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+
