@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Esto es una prueba"
-date:   2018-01-22 13:31:55 +0000
+title:  "Nuevo post"
+date:   2018-01-24 15:22:55 +0000
 categories: proyectos
 ---
 
