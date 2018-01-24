@@ -2,7 +2,7 @@
 layout: post
 title:  "Nuevo post"
 date:   2018-01-24 15:22:55 +0000
-categories: proyectos
+categories: Cositas Github
 ---
 
 ### COMANDOS PARA SUBIR SITE A GITHUB
@@ -23,4 +23,4 @@ Y por último para subir los cambios:
 
 
 
-Con mucho ♥ para vosotros !
+**Con mucho ♥ para vosotros ! ¯\_(ツ)_/¯**
