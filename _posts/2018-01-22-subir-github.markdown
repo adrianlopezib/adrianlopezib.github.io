@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nuevo post"
+title:  "Cositas de Github :)"
 date:   2018-01-24 15:22:55 +0000
 categories: Cositas Github
 ---
